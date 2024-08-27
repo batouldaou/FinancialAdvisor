@@ -1,0 +1,193 @@
+Month,Category,Budget,Actual Spending,Income,Spending Deviation
+1,Groceries,402,322,4000,-80
+1,Rent,1000,1002,4000,2
+1,Utilities,201,222,4000,21
+1,Entertainment,192,166,4000,-26
+1,Transportation,114,101,4000,-13
+1,Dining Out,256,272,4000,16
+1,Healthcare,121,120,4000,-1
+1,Savings,488,491,4000,3
+2,Groceries,451,480,4000,29
+2,Rent,1000,1091,4000,91
+2,Utilities,152,239,4000,87
+2,Entertainment,249,169,4000,-80
+2,Transportation,152,212,4000,60
+2,Dining Out,151,108,4000,-43
+2,Healthcare,137,58,4000,-79
+2,Savings,593,581,4000,-12
+3,Groceries,348,302,4000,-46
+3,Rent,1000,963,4000,-37
+3,Utilities,240,270,4000,30
+3,Entertainment,158,108,4000,-50
+3,Transportation,141,175,4000,34
+3,Dining Out,164,84,4000,-80
+3,Healthcare,100,72,4000,-28
+3,Savings,663,729,4000,66
+4,Groceries,317,269,4000,-48
+4,Rent,1000,1029,4000,29
+4,Utilities,153,136,4000,-17
+4,Entertainment,188,179,4000,-9
+4,Transportation,159,169,4000,10
+4,Dining Out,163,250,4000,87
+4,Healthcare,58,156,4000,98
+4,Savings,645,716,4000,71
+5,Groceries,307,338,4000,31
+5,Rent,1000,901,4000,-99
+5,Utilities,196,229,4000,33
+5,Entertainment,134,87,4000,-47
+5,Transportation,177,182,4000,5
+5,Dining Out,230,133,4000,-97
+5,Healthcare,99,52,4000,-47
+5,Savings,659,749,4000,90
+6,Groceries,445,359,4000,-86
+6,Rent,1000,1099,4000,99
+6,Utilities,239,328,4000,89
+6,Entertainment,143,82,4000,-61
+6,Transportation,133,114,4000,-19
+6,Dining Out,163,173,4000,10
+6,Healthcare,144,96,4000,-48
+6,Savings,603,526,4000,-77
+7,Groceries,453,441,4000,-12
+7,Rent,1000,970,4000,-30
+7,Utilities,238,146,4000,-92
+7,Entertainment,287,274,4000,-13
+7,Transportation,140,168,4000,28
+7,Dining Out,164,199,4000,35
+7,Healthcare,94,56,4000,-38
+7,Savings,364,402,4000,38
+8,Groceries,380,320,4000,-60
+8,Rent,1000,927,4000,-73
+8,Utilities,157,191,4000,34
+8,Entertainment,262,233,4000,-29
+8,Transportation,134,45,4000,-89
+8,Dining Out,182,243,4000,61
+8,Healthcare,172,104,4000,-68
+8,Savings,560,507,4000,-53
+9,Groceries,450,450,4000,0
+9,Rent,1000,1074,4000,74
+9,Utilities,211,241,4000,30
+9,Entertainment,136,36,4000,-100
+9,Transportation,198,102,4000,-96
+9,Dining Out,253,294,4000,41
+9,Healthcare,84,86,4000,2
+9,Savings,526,452,4000,-74
+10,Groceries,436,398,4000,-38
+10,Rent,1000,995,4000,-5
+10,Utilities,228,179,4000,-49
+10,Entertainment,114,109,4000,-5
+10,Transportation,189,220,4000,31
+10,Dining Out,191,241,4000,50
+10,Healthcare,173,215,4000,42
+10,Savings,478,548,4000,70
+11,Groceries,328,293,4000,-35
+11,Rent,1000,1069,4000,69
+11,Utilities,185,129,4000,-56
+11,Entertainment,112,73,4000,-39
+11,Transportation,131,215,4000,84
+11,Dining Out,220,253,4000,33
+11,Healthcare,135,62,4000,-73
+11,Savings,583,510,4000,-73
+12,Groceries,407,496,4000,89
+12,Rent,1000,1028,4000,28
+12,Utilities,193,213,4000,20
+12,Entertainment,183,109,4000,-74
+12,Transportation,129,218,4000,89
+12,Dining Out,224,244,4000,20
+12,Healthcare,177,192,4000,15
+12,Savings,647,549,4000,-98
+13,Groceries,402,352,4000,-50
+13,Rent,1000,1071,4000,71
+13,Utilities,219,270,4000,51
+13,Entertainment,299,257,4000,-42
+13,Transportation,126,143,4000,17
+13,Dining Out,286,345,4000,59
+13,Healthcare,111,106,4000,-5
+13,Savings,464,543,4000,79
+14,Groceries,412,442,4000,30
+14,Rent,1000,1012,4000,12
+14,Utilities,211,211,4000,0
+14,Entertainment,285,297,4000,12
+14,Transportation,151,234,4000,83
+14,Dining Out,161,141,4000,-20
+14,Healthcare,88,174,4000,86
+14,Savings,685,697,4000,12
+15,Groceries,301,330,4000,29
+15,Rent,1000,952,4000,-48
+15,Utilities,151,222,4000,71
+15,Entertainment,153,212,4000,59
+15,Transportation,186,283,4000,97
+15,Dining Out,278,337,4000,59
+15,Healthcare,196,163,4000,-33
+15,Savings,425,507,4000,82
+16,Groceries,483,580,4000,97
+16,Rent,1000,1038,4000,38
+16,Utilities,166,209,4000,43
+16,Entertainment,137,133,4000,-4
+16,Transportation,123,146,4000,23
+16,Dining Out,218,304,4000,86
+16,Healthcare,165,134,4000,-31
+16,Savings,397,389,4000,-8
+17,Groceries,302,349,4000,47
+17,Rent,1000,995,4000,-5
+17,Utilities,169,267,4000,98
+17,Entertainment,286,237,4000,-49
+17,Transportation,135,195,4000,60
+17,Dining Out,296,363,4000,67
+17,Healthcare,139,166,4000,27
+17,Savings,446,384,4000,-62
+18,Groceries,381,424,4000,43
+18,Rent,1000,989,4000,-11
+18,Utilities,150,161,4000,11
+18,Entertainment,110,69,4000,-41
+18,Transportation,191,203,4000,12
+18,Dining Out,191,92,4000,-99
+18,Healthcare,148,176,4000,28
+18,Savings,562,509,4000,-53
+19,Groceries,439,386,4000,-53
+19,Rent,1000,1030,4000,30
+19,Utilities,218,265,4000,47
+19,Entertainment,136,187,4000,51
+19,Transportation,131,84,4000,-47
+19,Dining Out,158,177,4000,19
+19,Healthcare,148,208,4000,60
+19,Savings,446,497,4000,51
+20,Groceries,415,426,4000,11
+20,Rent,1000,998,4000,-2
+20,Utilities,224,276,4000,52
+20,Entertainment,212,204,4000,-8
+20,Transportation,171,216,4000,45
+20,Dining Out,253,280,4000,27
+20,Healthcare,133,142,4000,9
+20,Savings,553,534,4000,-19
+21,Groceries,493,413,4000,-80
+21,Rent,1000,947,4000,-53
+21,Utilities,203,250,4000,47
+21,Entertainment,262,289,4000,27
+21,Transportation,179,214,4000,35
+21,Dining Out,217,251,4000,34
+21,Healthcare,82,176,4000,94
+21,Savings,697,741,4000,44
+22,Groceries,427,484,4000,57
+22,Rent,1000,937,4000,-63
+22,Utilities,182,190,4000,8
+22,Entertainment,275,225,4000,-50
+22,Transportation,175,256,4000,81
+22,Dining Out,264,171,4000,-93
+22,Healthcare,168,94,4000,-74
+22,Savings,321,247,4000,-74
+23,Groceries,320,366,4000,46
+23,Rent,1000,903,4000,-97
+23,Utilities,179,113,4000,-66
+23,Entertainment,196,287,4000,91
+23,Transportation,127,75,4000,-52
+23,Dining Out,260,176,4000,-84
+23,Healthcare,110,181,4000,71
+23,Savings,603,660,4000,57
+24,Groceries,345,425,4000,80
+24,Rent,1000,994,4000,-6
+24,Utilities,155,153,4000,-2
+24,Entertainment,198,285,4000,87
+24,Transportation,136,151,4000,15
+24,Dining Out,173,263,4000,90
+24,Healthcare,142,201,4000,59
+24,Savings,601,661,4000,60
