@@ -37,7 +37,7 @@ def seperate_data(data, config):
 
 
 def split_data(features, target, config):
-    x_train, x_test, y_train, y_test = train_test_split(features, target, test_size=config["test_size"], random=42)
+    x_train, x_test, y_train, y_test = train_test_split(features, target, test_size=config["test_size"], random_state=42)
     return x_train, x_test, y_train, y_test
 
 
